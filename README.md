@@ -6,6 +6,6 @@ This dynamic dashboard offers HR teams comprehensive insights into attrition rat
 
 The following links direct you all to my dashboard:
 
-PDF: https://drive.google.com/file/d/1fdCVluZHzI3JAKwNF98b0HVA2Y7NKYlt/view?usp=sharing
+PDF: https://drive.google.com/file/d/1vw_kJwnhIafW0GO31bVU900s5Tf7Ww4i/view?usp=sharing
 
 EXCEL: https://docs.google.com/spreadsheets/d/1ib_I5fvjoGlpt-Rz0DrO1vMOHxwM62WS/edit?usp=sharing&ouid=108856256816393849701&rtpof=true&sd=true
